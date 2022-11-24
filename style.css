@@ -1,0 +1,12 @@
+body
+{
+color:darkorchid;
+background-size: cover;
+background-position: center;
+}
+
+#Pong{
+    width: 100%;
+    margin-top: 0px;
+    font-size: xx-large;
+}
